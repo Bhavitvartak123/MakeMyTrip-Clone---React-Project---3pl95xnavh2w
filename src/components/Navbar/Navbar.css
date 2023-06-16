@@ -1,5 +1,5 @@
 .NavbarContainer {
-    position: sticky;
+    position: none;
     background-color: white;
     top: 0px;
     display: flex;
